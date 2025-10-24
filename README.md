@@ -1,6 +1,2 @@
 abc
-<<<<<<< HEAD
-fff
-=======
-cba
->>>>>>> 0efe399388016d15ff1d049c5a9baeae988f1a8f
+0efe399388016d15ff1d049c5a9baeae988f1a8f
